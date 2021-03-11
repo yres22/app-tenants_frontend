@@ -1,0 +1,12 @@
+@media (max-width:751px) {
+    .App {
+      width: 514px;
+    }
+}
+
+
+@media (max-width:491px) {
+    .App {
+      width: 320px;
+    }
+}
