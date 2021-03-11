@@ -7,7 +7,7 @@ function Step4(props) {
  
   return (
     
-    <div>
+    <div className="element-animation-button">
       <p>Salary indication </p>
 
       <input 
