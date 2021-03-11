@@ -59,8 +59,8 @@ function Step4(props) {
         
       />
       <label for="contactChoice1">More than 4.000</label>
-      <button onClick={props.prev}>Previous</button>
-      <button onClick={props.next}>Next</button>
+      {/* <button onClick={props.prev}>Previous</button>
+      <button onClick={props.next}>Next</button> */}
     </div>
   );
 }
